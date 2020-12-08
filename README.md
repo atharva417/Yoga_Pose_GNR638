@@ -35,6 +35,8 @@ haring
 
 12. Link for Github: https://github.com/atharva417/Yoga_Pose_GNR638
 
+13. Link for downloading model weights: https://drive.google.com/drive/folders/1wXgT761NnPnn8k0p35e8uIbUXkx5d9nH?usp=sharing
+
 Some precautions that are to be taken while training on unet model:
 a. Dataset must always have two different folders, test and train.
 b. The test folder must contain all images in .png format and named as 0.png and so
