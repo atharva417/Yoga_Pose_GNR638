@@ -1,4 +1,4 @@
-# Yoga_Pose_GNR638
+# Extended Mask RCNN
 
 1. Unet.ipynb consists of the code that gives you the segmented image.
 
